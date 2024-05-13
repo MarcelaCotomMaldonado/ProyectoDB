@@ -1,0 +1,13 @@
+C:\Users\Marce\source\repos\ProyectoBDFinal\ProyectoBDFinal\bin\Debug\ProyectoBDFinal.exe.config
+C:\Users\Marce\source\repos\ProyectoBDFinal\ProyectoBDFinal\bin\Debug\ProyectoBDFinal.exe
+C:\Users\Marce\source\repos\ProyectoBDFinal\ProyectoBDFinal\bin\Debug\ProyectoBDFinal.pdb
+C:\Users\Marce\source\repos\ProyectoBDFinal\ProyectoBDFinal\obj\Debug\ProyectoBDFinal.csproj.AssemblyReference.cache
+C:\Users\Marce\source\repos\ProyectoBDFinal\ProyectoBDFinal\obj\Debug\ProyectoBDFinal.Form1.resources
+C:\Users\Marce\source\repos\ProyectoBDFinal\ProyectoBDFinal\obj\Debug\ProyectoBDFinal.Properties.Resources.resources
+C:\Users\Marce\source\repos\ProyectoBDFinal\ProyectoBDFinal\obj\Debug\ProyectoBDFinal.csproj.GenerateResource.cache
+C:\Users\Marce\source\repos\ProyectoBDFinal\ProyectoBDFinal\obj\Debug\ProyectoBDFinal.csproj.CoreCompileInputs.cache
+C:\Users\Marce\source\repos\ProyectoBDFinal\ProyectoBDFinal\obj\Debug\ProyectoBDFinal.exe
+C:\Users\Marce\source\repos\ProyectoBDFinal\ProyectoBDFinal\obj\Debug\ProyectoBDFinal.pdb
+C:\Users\Marce\source\repos\ProyectoBDFinal\ProyectoBDFinal\obj\Debug\ProyectoBDFinal.Digitador.resources
+C:\Users\Marce\source\repos\ProyectoBDFinal\ProyectoBDFinal\obj\Debug\ProyectoBDFinal.Supervisor.resources
+C:\Users\Marce\source\repos\ProyectoBDFinal\ProyectoBDFinal\obj\Debug\ProyectoBDFinal.Director.resources
